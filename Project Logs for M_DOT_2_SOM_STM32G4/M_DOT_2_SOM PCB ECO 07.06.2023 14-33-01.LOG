@@ -1,0 +1,42 @@
+Change Footprint: Footprint Not Found SOIC127P600X175-8N
+Added Component: Designator=IC?(QFP40P1600X1600X160-128N)
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "STM32G474QET3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/stm32g474qet3/stmicroelectronics?region=nac"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/STM32G474QET3.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.6mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "STM32G474QET3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-STM32G474QET3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/STM32G474QET3?qs=PzGy0jfpSMs5f7QqmTPUvQ%3D%3D"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IC?-1
+Add Pin To Net: Unknown Pin: Pin IC?-2
+Add Pin To Net: Unknown Pin: Pin IC?-3
+Add Pin To Net: Unknown Pin: Pin IC?-4
+Add Pin To Net: Unknown Pin: Pin IC?-5
+Add Pin To Net: Unknown Pin: Pin IC?-6
+Add Pin To Net: Unknown Pin: Pin IC?-8
+Added Member To Class: ClassName=Microcontroller Member=Component C? 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 10u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 10u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component IC? STM32G474QET3
+Added Member To Class: ClassName=Microcontroller Member=Component L? 4,7uH 3A
+Added Member To Class: ClassName=Microcontroller Member=Component R? 10K
+Added Member To Class: ClassName=Microcontroller Member=Component R? 33K?
+Added Member To Class: ClassName=Microcontroller Member=Component R? 10K
+Added Member To Class: ClassName=Microcontroller Member=Component U? IS61WV5128BLL-10BLI
+Added Member To Class: ClassName=Microcontroller Member=Component U? TPS563200DDCR
+Added Member To Class: ClassName=Microcontroller Member=Component U? STM32G474VEH6
+Added Member To Class: ClassName=Microcontroller Member=Component U? STM32G474VEH6

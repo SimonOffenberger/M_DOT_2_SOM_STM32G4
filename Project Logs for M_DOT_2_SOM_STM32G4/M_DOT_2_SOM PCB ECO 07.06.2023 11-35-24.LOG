@@ -1,0 +1,46 @@
+Change Footprint: Footprint Not Found SOIC127P600X175-8N
+Change Component Footprint: Designator=U? Old Footprint=FP-TFBGA100-A08Q-MFG New Footprint=LQFP128_M
+Change Component Comment : Designator=U? Old Comment=STM32G474VEH6 New Comment=AT91SAM7SE32-AU
+Change Managed Component Library Link : Designator=U? Old VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID=92C5BEAB-F435-4334-A5EE-E28B67644FB8 New ItemGUID=CACB4F2C-A7D1-4747-91E3-452FD072953F Old RevisionGUID=D0AC3F87-2840-4F81-AC94-F2980FE8CBE7 New RevisionGUID=F4CF9C75-4926-4171-A117-5E85BE2C903A
+Change component parameters: Designator = "U?" ("U?"); Footprint = "FP-TFBGA100-A08Q-MFG"; UniqueID = "\HSRCHITH" ("\HSRCHITH")
+Change component parameters (AddParameter): Name = "Code_JEDEC"; Value = "MS-026"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.atmel.com/"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2Description"; Value = "AT91SAM7SE Series Datasheet"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/doc6222.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3Description"; Value = "AT91SAM7SE Series Summary"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.atmel.com/dyn/resources/prod_documents/6222s.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "DatasheetVersion"; Value = "revE, Dec-2009"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageDescription"; Value = "128-Pin Thin Quad Flat Pack Rectangular 0.5 mm Pitch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageReference"; Value = "LQFP128"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "PackageVersion"; Value = "2008"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IC?-1
+Add Pin To Net: Unknown Pin: Pin IC?-2
+Add Pin To Net: Unknown Pin: Pin IC?-3
+Add Pin To Net: Unknown Pin: Pin IC?-4
+Add Pin To Net: Unknown Pin: Pin IC?-5
+Add Pin To Net: Unknown Pin: Pin IC?-6
+Add Pin To Net: Unknown Pin: Pin IC?-8
+Added Member To Class: ClassName=Microcontroller Member=Component C? 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 10u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 10u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C? 100n
+Added Member To Class: ClassName=Microcontroller Member=Component L? 4,7uH 3A
+Added Member To Class: ClassName=Microcontroller Member=Component R? 10K
+Added Member To Class: ClassName=Microcontroller Member=Component R? 33K?
+Added Member To Class: ClassName=Microcontroller Member=Component R? 10K
+Added Member To Class: ClassName=Microcontroller Member=Component U? AT91SAM7SE32-AU
+Added Member To Class: ClassName=Microcontroller Member=Component U? STM32G474VEH6
+Added Member To Class: ClassName=Microcontroller Member=Component U? TPS563200DDCR
