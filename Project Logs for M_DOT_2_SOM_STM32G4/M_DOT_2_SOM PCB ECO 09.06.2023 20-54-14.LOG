@@ -1,0 +1,57 @@
+Added Component: Designator=IC1(SOIC127P600X175-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = "M24C02-WMN6TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = "https://www.arrow.com/en/products/m24c02-wmn6tp/stmicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/DM00071904.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.75mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M24C02-WMN6TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "511-M24C02-WMN6TP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/STMicroelectronics/M24C02-WMN6TP?qs=%252B9pWl1iD4MV6%252BhhMP%2F%252BxlQ%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=J3(HUSSP10W40P127_2X5_635X340X420P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Arrow Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Arrow Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M50-360R.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Harwin"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M50-3600542R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "855-M50-3600542R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.co.uk/ProductDetail/Harwin/M50-3600542R?qs=DVxm2sPGGrrPu%2FxuhpV3yw%3D%3D"; VariantName = "[No Variations]"
+Added Component: Designator=Y1(Crystal SMD3225)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=GND Pin=IC1-4
+Added Pin To Net: NetName=SDA Pin=IC1-5
+Added Pin To Net: NetName=SCL Pin=IC1-6
+Added Pin To Net: NetName=3V3 Pin=IC1-8
+Added Pin To Net: NetName=GND Pin=J3-1
+Added Pin To Net: NetName=GND Pin=Y1-2
+Added Pin To Net: NetName=+3.3V Pin=J3-2
+Added Pin To Net: NetName=+3.3V Pin=Y1-1
+Added Pin To Net: NetName=+3.3V Pin=Y1-4
+Added Net: Name=+3.3V
+Added Net: Name=LED
+Added Net: Name=NetD1_2
+Added Pin To Net: NetName=NRST Pin=J3-5
+Added Pin To Net: NetName=NRST Pin=U1-21
+Added Net: Name=NRST
+Added Pin To Net: NetName=OSC_OUT Pin=U1-19
+Added Pin To Net: NetName=OSC_OUT Pin=Y1-3
+Added Net: Name=OSC_OUT
+Added Pin To Net: NetName=SWCLK Pin=J3-4
+Added Pin To Net: NetName=SWCLK Pin=U1-98
+Added Net: Name=SWCLK
+Added Pin To Net: NetName=SWDIO Pin=J3-3
+Added Pin To Net: NetName=SWDIO Pin=U1-96
+Added Net: Name=SWDIO
+Added Pin To Net: NetName=UART3_RX Pin=J3-7
+Added Pin To Net: NetName=UART3_RX Pin=U1-101
+Added Net: Name=UART3_RX
+Added Pin To Net: NetName=UART3_TX Pin=J3-6
+Added Pin To Net: NetName=UART3_TX Pin=U1-100
+Added Net: Name=UART3_TX
+Added Member To Class: ClassName=Microcontroller Member=Component IC1 M24C02-WMN6TP
+Added Member To Class: ClassName=Microcontroller Member=Component J3 M50-3600542R
+Added Member To Class: ClassName=Microcontroller Member=Component Y1 Oscillator
