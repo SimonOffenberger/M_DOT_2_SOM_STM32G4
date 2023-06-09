@@ -1,0 +1,192 @@
+Removed Pin From Net: NetName=3V3_AN Pin=C?-1
+Removed Pin From Net: NetName=3V3_AN Pin=L?-2
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Remove Pin from Net: Failed to remove Pin
+Change Footprint: Footprint Not Found SOIC127P600X175-8N
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=C? NewDesignator=C7
+Change Component Designator: OldDesignator=C? NewDesignator=C8
+Change Component Designator: OldDesignator=C? NewDesignator=C9
+Change Component Designator: OldDesignator=C? NewDesignator=C10
+Change Component Designator: OldDesignator=C? NewDesignator=C11
+Change Component Designator: OldDesignator=C? NewDesignator=C12
+Change Component Designator: OldDesignator=C? NewDesignator=C13
+Change Component Designator: OldDesignator=C? NewDesignator=C14
+Change Component Designator: OldDesignator=C? NewDesignator=C15
+Change Component Designator: OldDesignator=C? NewDesignator=C16
+Change Component Designator: OldDesignator=C? NewDesignator=C17
+Change Component Designator: OldDesignator=IC? NewDesignator=IC1
+Change Component Designator: OldDesignator=J? NewDesignator=J2
+Change Component Designator: OldDesignator=L? NewDesignator=L1
+Change Component Designator: OldDesignator=L? NewDesignator=L2
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=U? NewDesignator=U2
+Added Component: Designator=C18(0603CH)
+Added Component: Designator=C19(0402C)
+Added Component: Designator=C20(0402C)
+Add Component: Footprint Not Found LPQFP-128
+Added Component: Designator=U3(ISSI-TSOP-2-44_N)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.issi.com/US/index.shtml"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.issi.com/WW/pdf/61-64WV5128EDBLL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.issi.com/WW/pdf/61-64WV6416EEBLL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Density"; Value = "4M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Integrated Silicon Solution Inc (ISSI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organization"; Value = "512K x 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "44-Pin 400 mil TSOP-2, Body 18.41 x 10.16 mm, Pitch 0.8 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TSOP-2-44"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. F, 06/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray / Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IS61WV5128EDBLL-10TLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed (ns)"; Value = "10"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=3V3 Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C18-2
+Added Pin To Net: NetName=GND Pin=C19-1
+Added Pin To Net: NetName=3V3 Pin=C19-2
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=3V3 Pin=C20-2
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin J1-12
+Add Pin To Net: Unknown Pin: Pin J1-13
+Add Pin To Net: Unknown Pin: Pin U1-12
+Add Pin To Net: Unknown Pin: Pin U1-13
+Add Pin To Net: Unknown Pin: Pin U1-30
+Add Pin To Net: Unknown Pin: Pin U1-31
+Add Pin To Net: Unknown Pin: Pin U1-42
+Add Pin To Net: Unknown Pin: Pin U1-43
+Add Pin To Net: Unknown Pin: Pin U1-44
+Add Pin To Net: Unknown Pin: Pin U1-46
+Add Pin To Net: Unknown Pin: Pin U1-47
+Add Pin To Net: Unknown Pin: Pin U1-63
+Add Pin To Net: Unknown Pin: Pin U1-64
+Add Pin To Net: Unknown Pin: Pin U1-78
+Add Pin To Net: Unknown Pin: Pin U1-79
+Add Pin To Net: Unknown Pin: Pin U1-94
+Add Pin To Net: Unknown Pin: Pin U1-95
+Add Pin To Net: Unknown Pin: Pin U1-110
+Add Pin To Net: Unknown Pin: Pin U1-111
+Add Pin To Net: Unknown Pin: Pin U1-127
+Add Pin To Net: Unknown Pin: Pin U1-128
+Added Pin To Net: NetName=3V3 Pin=U3-11
+Added Pin To Net: NetName=GND Pin=U3-12
+Added Pin To Net: NetName=3V3 Pin=U3-33
+Added Pin To Net: NetName=GND Pin=U3-34
+Added Pin To Net: NetName=FMC_A0 Pin=U3-3
+Added Net: Name=FMC_A0
+Added Pin To Net: NetName=FMC_A1 Pin=U3-4
+Added Net: Name=FMC_A1
+Added Pin To Net: NetName=FMC_A2 Pin=U3-5
+Added Net: Name=FMC_A2
+Added Pin To Net: NetName=FMC_A3 Pin=U3-6
+Added Net: Name=FMC_A3
+Added Pin To Net: NetName=FMC_A4 Pin=U3-7
+Added Net: Name=FMC_A4
+Added Pin To Net: NetName=FMC_A5 Pin=U3-16
+Added Net: Name=FMC_A5
+Added Pin To Net: NetName=FMC_A6 Pin=U3-17
+Added Net: Name=FMC_A6
+Added Pin To Net: NetName=FMC_A7 Pin=U3-18
+Added Net: Name=FMC_A7
+Added Pin To Net: NetName=FMC_A8 Pin=U3-19
+Added Net: Name=FMC_A8
+Added Pin To Net: NetName=FMC_A9 Pin=U3-20
+Added Net: Name=FMC_A9
+Added Pin To Net: NetName=FMC_A10 Pin=U3-26
+Added Net: Name=FMC_A10
+Added Pin To Net: NetName=FMC_A11 Pin=U3-27
+Added Net: Name=FMC_A11
+Added Pin To Net: NetName=FMC_A12 Pin=U3-28
+Added Net: Name=FMC_A12
+Added Pin To Net: NetName=FMC_A13 Pin=U3-29
+Added Net: Name=FMC_A13
+Added Pin To Net: NetName=FMC_A14 Pin=U3-30
+Added Net: Name=FMC_A14
+Added Pin To Net: NetName=FMC_A15 Pin=U3-38
+Added Net: Name=FMC_A15
+Added Pin To Net: NetName=FMC_A16 Pin=U3-39
+Added Net: Name=FMC_A16
+Added Pin To Net: NetName=FMC_A17 Pin=U3-40
+Added Net: Name=FMC_A17
+Added Pin To Net: NetName=FMC_A18 Pin=U3-41
+Added Net: Name=FMC_A18
+Added Pin To Net: NetName=FMC_CE Pin=U3-8
+Added Net: Name=FMC_CE
+Added Pin To Net: NetName=FMC_D0 Pin=U3-9
+Added Net: Name=FMC_D0
+Added Pin To Net: NetName=FMC_D1 Pin=U3-10
+Added Net: Name=FMC_D1
+Added Pin To Net: NetName=FMC_D2 Pin=U3-13
+Added Net: Name=FMC_D2
+Added Pin To Net: NetName=FMC_D3 Pin=U3-14
+Added Net: Name=FMC_D3
+Added Pin To Net: NetName=FMC_D4 Pin=U3-31
+Added Net: Name=FMC_D4
+Added Pin To Net: NetName=FMC_D5 Pin=U3-32
+Added Net: Name=FMC_D5
+Added Pin To Net: NetName=FMC_D6 Pin=U3-35
+Added Net: Name=FMC_D6
+Added Pin To Net: NetName=FMC_D7 Pin=U3-36
+Added Net: Name=FMC_D7
+Added Pin To Net: NetName=FMC_OE Pin=U3-37
+Added Net: Name=FMC_OE
+Added Pin To Net: NetName=FMC_WE Pin=U3-15
+Added Net: Name=FMC_WE
+Added Pin To Net: NetName=NetC10_1 Pin=C10-1
+Added Pin To Net: NetName=NetC10_1 Pin=L2-2
+Added Net: Name=NetC10_1
+Added Member To Class: ClassName=Microcontroller Member=Component C1 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C2 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C3 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C4 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C5 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C6 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C7 22u
+Added Member To Class: ClassName=Microcontroller Member=Component C8 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C9 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C10 10u
+Added Member To Class: ClassName=Microcontroller Member=Component C11 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C12 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C13 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C14 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C15 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C16 10u
+Added Member To Class: ClassName=Microcontroller Member=Component C18 10u
+Added Member To Class: ClassName=Microcontroller Member=Component C19 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C20 100n
+Added Member To Class: ClassName=Microcontroller Member=Component L2 1000E 100MHZ
+Added Member To Class: ClassName=Microcontroller Member=Component R1 33K?
+Added Member To Class: ClassName=Microcontroller Member=Component R2 10K
+Added Member To Class: ClassName=Microcontroller Member=Component R4 10K
+Add Class Member: Failed to add class member : Component U1 STM32G474QET6
+Added Member To Class: ClassName=Microcontroller Member=Component U2 TPS563200DDCR
+Added Member To Class: ClassName=Microcontroller Member=Component U3 IS61WV5128EDBLL-10TLI

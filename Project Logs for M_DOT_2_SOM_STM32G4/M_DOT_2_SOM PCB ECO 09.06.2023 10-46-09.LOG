@@ -1,0 +1,66 @@
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Added Component: Designator=U1(LPQFP-128)
+Add component (AddParameter): Name = "Mfr_Name"; Value = "STMicroelectronics"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RefDes"; Value = "RefDes"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Type"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin J1-12
+Add Pin To Net: Unknown Pin: Pin J1-13
+Added Pin To Net: NetName=FMC_A3 Pin=U1-10
+Added Pin To Net: NetName=FMC_A4 Pin=U1-11
+Added Pin To Net: NetName=GND Pin=U1-12
+Added Pin To Net: NetName=3V3 Pin=U1-13
+Added Pin To Net: NetName=FMC_A5 Pin=U1-14
+Added Pin To Net: NetName=FMC_A1 Pin=U1-15
+Added Pin To Net: NetName=FMC_A0 Pin=U1-18
+Added Pin To Net: NetName=FMC_A2 Pin=U1-26
+Added Pin To Net: NetName=GND Pin=U1-30
+Added Pin To Net: NetName=3V3 Pin=U1-31
+Added Pin To Net: NetName=GND Pin=U1-42
+Added Pin To Net: NetName=Vref+ Pin=U1-43
+Added Pin To Net: NetName=Vref+ Pin=U1-44
+Added Pin To Net: NetName=NetC10_1 Pin=U1-45
+Added Pin To Net: NetName=GND Pin=U1-46
+Added Pin To Net: NetName=3V3 Pin=U1-47
+Added Pin To Net: NetName=FMC_A6 Pin=U1-49
+Added Pin To Net: NetName=FMC_A7 Pin=U1-50
+Added Pin To Net: NetName=FMC_A8 Pin=U1-51
+Added Pin To Net: NetName=FMC_A9 Pin=U1-52
+Added Pin To Net: NetName=FMC_D4 Pin=U1-53
+Added Pin To Net: NetName=FMC_D5 Pin=U1-54
+Added Pin To Net: NetName=FMC_D6 Pin=U1-55
+Added Pin To Net: NetName=FMC_D7 Pin=U1-56
+Added Pin To Net: NetName=GND Pin=U1-63
+Added Pin To Net: NetName=3V3 Pin=U1-64
+Added Pin To Net: NetName=FMC_A16 Pin=U1-73
+Added Pin To Net: NetName=FMC_A17 Pin=U1-74
+Added Pin To Net: NetName=FMC_A18 Pin=U1-75
+Added Pin To Net: NetName=FMC_D0 Pin=U1-76
+Added Pin To Net: NetName=FMC_D1 Pin=U1-77
+Added Pin To Net: NetName=GND Pin=U1-78
+Added Pin To Net: NetName=3V3 Pin=U1-79
+Added Pin To Net: NetName=FMC_A10 Pin=U1-82
+Added Pin To Net: NetName=FMC_A11 Pin=U1-83
+Added Pin To Net: NetName=FMC_A12 Pin=U1-84
+Added Pin To Net: NetName=FMC_A13 Pin=U1-85
+Added Pin To Net: NetName=FMC_A14 Pin=U1-86
+Added Pin To Net: NetName=GND Pin=U1-94
+Added Pin To Net: NetName=3V3 Pin=U1-95
+Added Pin To Net: NetName=FMC_A15 Pin=U1-103
+Added Pin To Net: NetName=FMC_D2 Pin=U1-108
+Added Pin To Net: NetName=FMC_D3 Pin=U1-109
+Added Pin To Net: NetName=GND Pin=U1-110
+Added Pin To Net: NetName=3V3 Pin=U1-111
+Added Pin To Net: NetName=FMC_OE Pin=U1-114
+Added Pin To Net: NetName=FMC_WE Pin=U1-115
+Added Pin To Net: NetName=FMC_CE Pin=U1-117
+Added Pin To Net: NetName=GND Pin=U1-127
+Added Pin To Net: NetName=3V3 Pin=U1-128
+Add Class Member: Failed to add class member : Component IC1 M24C02-WMN6TP
+Added Member To Class: ClassName=Microcontroller Member=Component U1 STM32G474QET6

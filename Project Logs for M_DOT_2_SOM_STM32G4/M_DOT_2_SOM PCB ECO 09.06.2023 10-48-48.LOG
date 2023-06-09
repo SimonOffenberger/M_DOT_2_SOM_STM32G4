@@ -1,0 +1,66 @@
+Add Component: Footprint Not Found SOIC127P600X175-8N
+Added Component: Designator=U3(ISSI-TF-BGA-36-6000x8000DE)
+Add component (AddParameter): Name = "Code_JEDEC"; Value = "MO-207"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer URL"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.issi.com/US/index.shtml"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.issi.com/WW/pdf/61-64WV5128EDBLL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Package Specification"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.issi.com/WW/pdf/62-65WV2568DALL_BLL.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Rev. F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Density"; Value = "4M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Integrated Silicon Solution Inc (ISSI)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Technology"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Organization"; Value = "512K x 8"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "36-Pin 6 x 8 mm TF-BGA, Pitch 0.75 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "TF-BGA-36"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Rev. E, 08/2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packing"; Value = "Tray / Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNumber"; Value = "IS61WV5128EDBLL-10BLI"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "Pb-Free"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Speed (ns)"; Value = "10"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin IC1-1
+Add Pin To Net: Unknown Pin: Pin IC1-2
+Add Pin To Net: Unknown Pin: Pin IC1-3
+Add Pin To Net: Unknown Pin: Pin IC1-4
+Add Pin To Net: Unknown Pin: Pin IC1-5
+Add Pin To Net: Unknown Pin: Pin IC1-6
+Add Pin To Net: Unknown Pin: Pin IC1-8
+Add Pin To Net: Unknown Pin: Pin J1-12
+Add Pin To Net: Unknown Pin: Pin J1-13
+Added Pin To Net: NetName=FMC_A0 Pin=U3-A1
+Added Pin To Net: NetName=FMC_A1 Pin=U3-A2
+Added Pin To Net: NetName=FMC_A3 Pin=U3-A4
+Added Pin To Net: NetName=FMC_A6 Pin=U3-A5
+Added Pin To Net: NetName=FMC_A8 Pin=U3-A6
+Added Pin To Net: NetName=FMC_D4 Pin=U3-B1
+Added Pin To Net: NetName=FMC_A2 Pin=U3-B2
+Added Pin To Net: NetName=FMC_WE Pin=U3-B3
+Added Pin To Net: NetName=FMC_A4 Pin=U3-B4
+Added Pin To Net: NetName=FMC_A7 Pin=U3-B5
+Added Pin To Net: NetName=FMC_D0 Pin=U3-B6
+Added Pin To Net: NetName=FMC_D5 Pin=U3-C1
+Added Pin To Net: NetName=FMC_A5 Pin=U3-C4
+Added Pin To Net: NetName=FMC_D1 Pin=U3-C6
+Added Pin To Net: NetName=GND Pin=U3-D1
+Added Pin To Net: NetName=3V3 Pin=U3-D6
+Added Pin To Net: NetName=3V3 Pin=U3-E1
+Added Pin To Net: NetName=GND Pin=U3-E6
+Added Pin To Net: NetName=FMC_D6 Pin=U3-F1
+Added Pin To Net: NetName=FMC_A18 Pin=U3-F3
+Added Pin To Net: NetName=FMC_A17 Pin=U3-F4
+Added Pin To Net: NetName=FMC_D2 Pin=U3-F6
+Added Pin To Net: NetName=FMC_D7 Pin=U3-G1
+Added Pin To Net: NetName=FMC_OE Pin=U3-G2
+Added Pin To Net: NetName=FMC_CE Pin=U3-G3
+Added Pin To Net: NetName=FMC_A16 Pin=U3-G4
+Added Pin To Net: NetName=FMC_A15 Pin=U3-G5
+Added Pin To Net: NetName=FMC_D3 Pin=U3-G6
+Added Pin To Net: NetName=FMC_A9 Pin=U3-H1
+Added Pin To Net: NetName=FMC_A10 Pin=U3-H2
+Added Pin To Net: NetName=FMC_A11 Pin=U3-H3
+Added Pin To Net: NetName=FMC_A12 Pin=U3-H4
+Added Pin To Net: NetName=FMC_A13 Pin=U3-H5
+Added Pin To Net: NetName=FMC_A14 Pin=U3-H6
+Add Class Member: Failed to add class member : Component IC1 M24C02-WMN6TP
+Added Member To Class: ClassName=Microcontroller Member=Component U3 IS61WV5128EDBLL-10BLI
