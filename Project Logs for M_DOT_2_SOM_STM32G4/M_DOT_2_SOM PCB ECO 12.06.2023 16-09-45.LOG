@@ -1,0 +1,53 @@
+Change Component Designator: OldDesignator=C9 NewDesignator=C8
+Change Component Designator: OldDesignator=C10 NewDesignator=C9
+Change Component Designator: OldDesignator=C11 NewDesignator=C10
+Change Component Designator: OldDesignator=C12 NewDesignator=C11
+Change Component Designator: OldDesignator=C13 NewDesignator=C12
+Change Component Designator: OldDesignator=C14 NewDesignator=C13
+Change Component Designator: OldDesignator=C15 NewDesignator=C14
+Change Component Designator: OldDesignator=C16 NewDesignator=C18
+Change Component Designator: OldDesignator=C17 NewDesignator=C19
+Change Component Designator: OldDesignator=C18 NewDesignator=C22
+Change Component Designator: OldDesignator=C19 NewDesignator=C23
+Change Component Designator: OldDesignator=C20 NewDesignator=C24
+Change Component Designator: OldDesignator=C21 NewDesignator=C15
+Change Component Designator: OldDesignator=C22 NewDesignator=C16
+Change Component Designator: OldDesignator=C23 NewDesignator=C17
+Change Component Designator: OldDesignator=J1 NewDesignator=J3
+Change Component Designator: OldDesignator=J2 NewDesignator=J1
+Change Component Designator: OldDesignator=J3 NewDesignator=J2
+Change Managed Component Library Link : Designator=U2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=F3BD3649-A08A-42BD-AC5C-626894C8ECC1 Old RevisionGUID= New RevisionGUID=8532F1D5-F310-43C2-901C-3100E9A9197F
+Change Managed Component Library Link : Designator=U3 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3DE20FB0-F276-4B03-A8F5-4F6F278772BC Old RevisionGUID= New RevisionGUID=64EAAA0C-1FC6-49CD-8A5A-7387D981A755
+Added Component: Designator=C20(0402C)
+Added Component: Designator=C21(0402C)
+Add Component: Footprint Not Found C1206
+Add Component: Footprint Not Found 6-0805_M
+Added Component: Designator=X1(XTAL32768)
+Add component (AddParameter): Name = "ANr"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C20-1
+Added Pin To Net: NetName=GND Pin=C21-1
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-12
+Add Pin To Net: Unknown Pin: Pin J3-13
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Added Pin To Net: NetName=LSE_IN Pin=C21-2
+Added Pin To Net: NetName=LSE_IN Pin=U1-8
+Added Pin To Net: NetName=LSE_IN Pin=X1-1
+Added Net: Name=LSE_IN
+Added Pin To Net: NetName=LSE_OUT Pin=C20-2
+Added Pin To Net: NetName=LSE_OUT Pin=U1-9
+Added Pin To Net: NetName=LSE_OUT Pin=X1-2
+Added Net: Name=LSE_OUT
+Added Member To Class: ClassName=Microcontroller Member=Component C21 8p2
+Added Member To Class: ClassName=Microcontroller Member=Component C24 100n
+Add Class Member: Failed to add class member : Component D1 µC
+Add Class Member: Failed to add class member : Component R5 Res2
+Added Member To Class: ClassName=Microcontroller Member=Component X1 32.768kHz
