@@ -1,0 +1,15 @@
+Added Pin To Net: NetName=PE2 Pin=J3-75
+Added Pin To Net: NetName=PE2 Pin=U1-1
+Added Net: Name=PE2
+Added Pin To Net: NetName=PE3 Pin=J3-73
+Added Pin To Net: NetName=PE3 Pin=U1-2
+Added Net: Name=PE3
+Added Pin To Net: NetName=PE4 Pin=J3-71
+Added Pin To Net: NetName=PE4 Pin=U1-3
+Added Net: Name=PE4
+Added Pin To Net: NetName=PE5 Pin=J3-69
+Added Pin To Net: NetName=PE5 Pin=U1-4
+Added Net: Name=PE5
+Added Pin To Net: NetName=PE6 Pin=J3-67
+Added Pin To Net: NetName=PE6 Pin=U1-5
+Added Net: Name=PE6

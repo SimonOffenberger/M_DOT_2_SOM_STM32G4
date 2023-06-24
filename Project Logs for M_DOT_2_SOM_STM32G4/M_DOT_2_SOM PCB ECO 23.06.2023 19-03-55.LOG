@@ -1,0 +1,14 @@
+Removed Pin From Net: NetName=3V3 Pin=J3-2
+Removed Pin From Net: NetName=3V3 Pin=J3-4
+Added Pin To Net: NetName=5V-17V Pin=J3-2
+Added Pin To Net: NetName=5V-17V Pin=J3-4
+Added Member To Class: ClassName=Microcontroller Member=Component C9 10u
+Added Member To Class: ClassName=Microcontroller Member=Component C11 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C13 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C17 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C18 10u
+Added Member To Class: ClassName=Microcontroller Member=Component C19 100n
+Added Member To Class: ClassName=Microcontroller Member=Component C20 8p2
+Added Member To Class: ClassName=Microcontroller Member=Component C21 8p2
+Added Member To Class: ClassName=Microcontroller Member=Component C22 10u
+Added Member To Class: ClassName=Microcontroller Member=Component J3 M.2 B Key

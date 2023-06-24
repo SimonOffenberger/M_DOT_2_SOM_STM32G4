@@ -1,0 +1,13 @@
+Added Component: Designator=VR1(SOT-223)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "?????"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_6652.html"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "SOT-223"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SuppliersPartNumber"; Value = "C6186"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=VR1-1
+Added Pin To Net: NetName=3V3 Pin=VR1-2
+Added Pin To Net: NetName=3V3 Pin=VR1-2
+Added Pin To Net: NetName=5V-17V Pin=VR1-3
+Added Member To Class: ClassName=Microcontroller Member=Component VR1 AMS1117-3.3
