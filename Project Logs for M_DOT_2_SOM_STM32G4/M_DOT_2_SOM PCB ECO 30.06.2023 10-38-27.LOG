@@ -1,0 +1,13 @@
+Change Component Description : Designator=VR1 Old Description=???????(LDO) New Description=???????(LDO)
+Change Managed Component Library Link : Designator=U2 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=3DE20FB0-F276-4B03-A8F5-4F6F278772BC Old RevisionGUID= New RevisionGUID=64EAAA0C-1FC6-49CD-8A5A-7387D981A755
+Change component parameters: Designator = "VR1" ("VR1"); Footprint = "SOT-223"; UniqueID = "\XFPQGNQL" ("\XFPQGNQL")
+Change component parameters (AddParameter): Name = "ComponentLink1Description"; Value = "?????"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.szlcsc.com/product/details_6652.html"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Notepad"; Value = ""; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Package"; Value = "SOT-223"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier"; Value = "LC"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "SuppliersPartNumber"; Value = "C6186"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin J3-6
+Add Pin To Net: Unknown Pin: Pin J3-12
+Add Pin To Net: Unknown Pin: Pin J3-13
+Added Class: Name=SDRAM_DATA
